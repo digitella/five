@@ -33,7 +33,7 @@
     "versionFirst": "5.0.25",
     "siteFonts": [],
     "imageResize": true,
-    "favicon": "@PROJECT_PATH@/assets/images/metroui-security-approved-128x128-2.png",
+    "favicon": "@PROJECT_PATH@/assets/images/helyx8-copy-128x128.png",
     "cssOptimize": false,
     "lazyLoad": true,
     "lazyType": "blur",
@@ -59,8 +59,14 @@
       "underlineLink": false,
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
-    "pwa-switcher": false,
+    "pwa-switcher": true,
     "publishChangesOnly": true,
+    "PWA": {
+      "enabled": true,
+      "name": "",
+      "icon": "@PROJECT_PATH@/assets/images/helyx8-copy-512x512.png",
+      "themeColor": "#6592e6"
+    },
     "uniqCompNum": 23,
     "versionPublish": "5.0.25"
   },

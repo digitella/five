@@ -33,7 +33,7 @@
     "versionFirst": "5.0.25",
     "siteFonts": [],
     "imageResize": true,
-    "favicon": false,
+    "favicon": "@PROJECT_PATH@/assets/images/metroui-security-approved-128x128-2.png",
     "cssOptimize": false,
     "lazyLoad": true,
     "lazyType": "blur",
@@ -60,6 +60,7 @@
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
     "pwa-switcher": false,
+    "publishChangesOnly": true,
     "uniqCompNum": 23,
     "versionPublish": "5.0.25"
   },

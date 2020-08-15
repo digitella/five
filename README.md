@@ -1,2 +1,2 @@
 # five
-GitHub Pages
+AMP Template

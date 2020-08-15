@@ -67,7 +67,7 @@
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
     "pwa-switcher": true,
-    "publishChangesOnly": true,
+    "publishChangesOnly": false,
     "PWA": {
       "enabled": true,
       "name": "",
